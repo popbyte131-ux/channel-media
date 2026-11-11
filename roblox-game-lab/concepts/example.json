@@ -1,0 +1,21 @@
+{
+  "name": "Fling For Eggs",
+  "pitch": "Ragdoll-launch yourself across a canyon to grab eggs from cliff nests. Farther nests hold rarer eggs. Hatch them into pets that earn while you are away, and knock rivals out of the air.",
+  "mix": {
+    "loops": ["ragdoll/physics", "collect-and-hatch"],
+    "theme": "animals",
+    "hooks": ["rarity/mutations", "offline/idle income"]
+  },
+  "study": ["DONT SPLASH", "Steal An Egg", "Throw Food For Animals"],
+  "ratings": {
+    "trend_fit": 5,
+    "instant_read": 4,
+    "first_five_minutes": 4,
+    "return_reason": 4,
+    "social_pull": 3,
+    "spend_depth": 4,
+    "twist": 4,
+    "build_speed": 3
+  },
+  "notes": "Ratings are a first guess made before playtesting. Re-rate after the MVP has real retention numbers."
+}
